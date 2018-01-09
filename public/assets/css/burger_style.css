@@ -1,0 +1,27 @@
+body{
+ 	background-color: #FFC04C;
+ }
+
+ #mainContainer{
+ 	margin-left: 25%;
+ }
+
+ #burger_img{
+ 	margin-left: 20%;
+    width: 25%;
+ }
+
+ h1{
+ 	margin-left: 20%;
+    margin-bottom: 2%;
+ }
+
+ #burger-text{
+ 	width: 60%;
+ 	margin-bottom: 1%;
+ }
+
+ #devouredBurger{
+ 	color: black;
+    border: none;
+ }
